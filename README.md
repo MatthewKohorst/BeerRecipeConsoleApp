@@ -3,7 +3,7 @@ Treehouse C# Project: HomeBrewers Recipe Book
 A Simple Console Application that a user can view and add homebrew beer recipes.
 
 Instructions on how to access this application:
-YOU WILL NEED VISUAL STUDIOS LOOADED ON YOUR COMPUTER!!!
+YOU WILL NEED VISUAL STUDIOS LOADED ON YOUR COMPUTER!!!
 1. Download the ZIP file
 2. Unzip the file to access BeerRecipeConsoleApp-master
 3. Load HomeBrewConsoleApp.sln (this should automatically open load into Visual Studio
